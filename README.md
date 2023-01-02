@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+As a software developer, I'm driven by a passion for creating clean, efficient code and solving complex problems. I'm always looking for ways to improve my skills and take on new challenges.
+
+I'm always **open to collaboration** and value constructive feedback, so don't hesitate to reach out if you have an interesting project or just want to connect. Let's build something great together!
+<br/>
+<br/>
+![Let's build together](https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
+
+
 <!--
 **bhaveshjpatel/bhaveshjpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
